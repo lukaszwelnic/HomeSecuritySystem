@@ -2,6 +2,12 @@
 
 \***_This project was created for teaching purposes and used on workshops for students._**
 
+<div align="center">
+  <img src="demo.gif" alt="Demo">
+  <p><strong>Demo of the project</strong></p>
+</div>
+
+
 Project uses a PIR motion sensor, LEDs, a buzzer, a button, and an LCD screen to create a simple security system. The system can be armed or disarmed using a button. When armed, any motion detected will trigger an alarm, displayed on the LCD screen, blink red LED and sound the buzzer.
 
 ### Components and Connections
